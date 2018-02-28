@@ -6,6 +6,8 @@ body {
 }
 
 a {
+  font-family: "Courier New", Courier, monospace;
+  font-style: oblique;
   test-align: center;
   color: #ffffff;
   text-decoration: none;
