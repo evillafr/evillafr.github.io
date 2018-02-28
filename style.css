@@ -12,6 +12,7 @@ a {
 }
 
 a:hover {
+    text-align: center;
     color: #e2e2e2;
     text-decoration: none;
 }
