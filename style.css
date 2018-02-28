@@ -1,8 +1,7 @@
 '
 body, div, h1, h2, h3, h4, h5, h6, p, ul, img {margin:0px; padding:0px; }
 
-body {
-  background-image: url("black-2362253_1920.jpg"); 
+body { 
   font-size: 100%;
 }
 
@@ -18,7 +17,8 @@ a:hover {
     color: #e2e2e2;
 }
 
-.container {
+.landing {
+  background-image: url("black-2362253_1920.jpg");
   height: 100%;
   width: 100%;
   display: flex;
