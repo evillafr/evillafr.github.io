@@ -13,3 +13,12 @@ a {
 a:hover {
     color: #e2e2e2;
 }
+
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
+}
