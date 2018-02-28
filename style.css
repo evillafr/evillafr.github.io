@@ -8,10 +8,12 @@ body {
 a {
   test-align: center;
   color: #ffffff;
+  text-decoration: none;
 }
 
 a:hover {
     color: #e2e2e2;
+    text-decoration: none;
 }
 
 .container {
