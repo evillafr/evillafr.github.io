@@ -14,7 +14,7 @@ body {
 
 a {
   font-family: "Abel";
-  font-size: 2.5em;
+  font-size: 5.5em;
   test-align: center;
   color: #ffffff;
   text-decoration: none;
@@ -26,7 +26,6 @@ a:hover {
 
 .landing {
   background-image: url("black-2362253_1920.jpg");
-  ont-size: 5.5em;
 }
 
 h1 {
