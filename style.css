@@ -129,6 +129,7 @@ ul {
 .white {
   text-align: left;
   overflow: scroll;
+  margin-bottom: 20px;
 }
 
 .white a {
